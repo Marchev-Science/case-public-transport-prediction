@@ -2,7 +2,7 @@
 
 ## Overview
 
-This case study examines data provided for a public transport bus line that operates between four designated stops. The dataset includes information regarding the time of arrival at each stop, the duration of stay at each stop, and corresponding weather data for these periods. The goal is to develop three prediction models capable of accurately predicting the arrival times of the bus at each of the three stops. 
+This case study examines data provided for a public transport bus line that operates between four designated stops. The dataset includes information regarding the scheduled time of arrival at each stop, the actual time of arrivl at each stop, and the duration of stay at each stop, and corresponding weather data for these periods. The goal is to develop three prediction models capable of accurately predicting the arrival times of the bus at each of the three stops. 
 
 ## Data Description
 
